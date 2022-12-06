@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.Pane?>
+<?import javafx.scene.media.MediaView?>
+
+<Pane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="486.0" prefWidth="740.0" xmlns="http://javafx.com/javafx/16" xmlns:fx="http://javafx.com/fxml/1" fx:controller="fp.Fp3">
+   <children>
+      <ImageView fitHeight="494.0" fitWidth="740.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@a28c66684ac448808b21c717d091f4b9_th.gif" />
+         </image>
+      </ImageView>
+      <MediaView fx:id="ghost" fitHeight="490.0" fitWidth="740.0" layoutX="135.0" layoutY="-2.0" />
+   </children>
+</Pane>
